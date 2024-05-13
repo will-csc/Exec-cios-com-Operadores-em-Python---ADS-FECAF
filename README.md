@@ -73,3 +73,6 @@ em ordem crescente.
 em ordem decrescente.
 19) Ler 100 valores e escrever quantos desses valores lidos são NEGATIVOS
 20) Faça um algoritmo que receba 6 valores, calcule e mostre a soma de todos eles.
+
+## Principal Linguagem Utilizada
+<img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
